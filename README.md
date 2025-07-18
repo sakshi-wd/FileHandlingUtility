@@ -59,7 +59,9 @@ The main() method serves as the user interface loop, where users choose operatio
 # Conclusion
 This project offers a practical way to understand and implement file operations in Java. It reinforces the importance of exception handling, string manipulation, and user interaction in building functional console-based applications.
 
+## OUTPUT ##
 
+<img width="1920" height="2160" alt="Image" src="https://github.com/user-attachments/assets/4a6313d5-e964-4074-a457-ae2a9c827b5c" />
 
 
 
