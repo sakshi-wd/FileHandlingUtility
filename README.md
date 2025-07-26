@@ -16,10 +16,10 @@ UniversalFileHandler.java is a simple yet powerful Java-based command-line utili
 This project is created as part of a file-handling assignment or internship task and focuses on implementing basic file operations using Java's standard I/O classes like FileReader, FileWriter, and BufferedReader.
 
 # Objectives
--To demonstrate the usage of Java file I/O classes.
--To provide a real-world utility that interacts with the filesystem.
--To allow users to dynamically input file content and make modifications via console input.
--To build a reusable, interactive, and menu-driven Java application
+1.To demonstrate the usage of Java file I/O classes.
+2.To provide a real-world utility that interacts with the filesystem.
+3.To allow users to dynamically input file content and make modifications via console input.
+4.To build a reusable, interactive, and menu-driven Java application
 
 # Features
 
@@ -34,10 +34,10 @@ The program reads the entire content of a file, replaces all occurrences of a sp
 
 4. Menu-Driven Interface
 The program runs in a loop and presents the user with a menu:
---Read a file
---Write to a file
---Modify a file
---Exit
+a.Read a file
+b.Write to a file
+c.Modify a file
+d.Exit
 Each option is handled using a switch statement, and user input is taken via Java's Scanner class.
 
 # Code Structure
@@ -51,10 +51,10 @@ Each method is self-contained and handles exceptions appropriately to ensure a s
 The main() method serves as the user interface loop, where users choose operations and input paths and content interactively.
 
 # Use Cases
--Beginners learning file handling in Java.
--CLI-based note editors or log writers.
--Modify simple configuration files or templates.
--Read and manipulate textual data files.
+1.Beginners learning file handling in Java.
+2.CLI-based note editors or log writers.
+3.Modify simple configuration files or templates.
+4.Read and manipulate textual data files.
 
 # Conclusion
 This project offers a practical way to understand and implement file operations in Java. It reinforces the importance of exception handling, string manipulation, and user interaction in building functional console-based applications.
