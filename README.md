@@ -17,8 +17,11 @@ This project is created as part of a file-handling assignment or internship task
 
 # Objectives
 1.To demonstrate the usage of Java file I/O classes.
+
 2.To provide a real-world utility that interacts with the filesystem.
+
 3.To allow users to dynamically input file content and make modifications via console input.
+
 4.To build a reusable, interactive, and menu-driven Java application
 
 # Features
@@ -35,16 +38,22 @@ The program reads the entire content of a file, replaces all occurrences of a sp
 4. Menu-Driven Interface
 The program runs in a loop and presents the user with a menu:
 a.Read a file
+
 b.Write to a file
+
 c.Modify a file
+
 d.Exit
 Each option is handled using a switch statement, and user input is taken via Java's Scanner class.
 
 # Code Structure
 
 The program is organized into three main methods:
+
 -writeToFile(String filePath, String content)
+
 -readFromFile(String filePath)
+
 -modifyFile(String filePath, String oldContent, String newContent)
 
 Each method is self-contained and handles exceptions appropriately to ensure a smooth user experience.
@@ -52,8 +61,11 @@ The main() method serves as the user interface loop, where users choose operatio
 
 # Use Cases
 1.Beginners learning file handling in Java.
+
 2.CLI-based note editors or log writers.
+
 3.Modify simple configuration files or templates.
+
 4.Read and manipulate textual data files.
 
 # Conclusion
