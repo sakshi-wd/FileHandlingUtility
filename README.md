@@ -37,13 +37,13 @@ The program reads the entire content of a file, replaces all occurrences of a sp
 
 4. Menu-Driven Interface
 The program runs in a loop and presents the user with a menu:
-a.Read a file
+   a.Read a file
 
-b.Write to a file
+   b.Write to a file
 
-c.Modify a file
+   c.Modify a file
 
-d.Exit
+   d.Exit
 Each option is handled using a switch statement, and user input is taken via Java's Scanner class.
 
 # Code Structure
