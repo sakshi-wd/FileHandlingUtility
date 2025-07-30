@@ -37,6 +37,7 @@ The program reads the entire content of a file, replaces all occurrences of a sp
 
 4. Menu-Driven Interface
 The program runs in a loop and presents the user with a menu:
+
    a.Read a file
 
    b.Write to a file
